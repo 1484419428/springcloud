@@ -3,10 +3,10 @@ spring:
     config:
       server:
         git:
-          uri: https://git.oschina.net/didispace/SpringCloud-Learning/
-          search-paths: spring_cloud_in_action/config-repo
+          uri: https://github.com/1484419428/springcloud/
+          search-paths: tree/master/configserver/src/main/resources
           username: zheng_yang@suixingpay.com
-          password: password
+          password: zx158022
         default-label: master
 
   application:
