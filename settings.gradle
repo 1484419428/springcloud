@@ -1,0 +1,4 @@
+rootProject.name = 'newsoringcloud'
+include 'configserver'
+include 'config-client'
+
